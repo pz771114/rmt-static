@@ -43,3 +43,20 @@ Get paid every session even without being taxied.
 
 Make new friends
 It’s just you and the client, make new friends and enjoy the relax time together.
+
+/*
+ too good to be ture jobs list
+ hourly rate $100+
+ no experiences needs but asset, paid training
+
+*/
+
+/*
+sign up page
+with online payment gateway
+waiting for confirmation to approve 
+*/
+
+/*
+login page
+*/
