@@ -60,3 +60,23 @@ waiting for confirmation to approve
 /*
 login page
 */
+
+/*
+members dashboard page
+
+based on firebase backend
+
+use different folder to hold project files
+
+and hosting at different domain
+
+static pages:
+/rmt247/index.html
+/rmt247/pricing.html
+/rmt247/contact.html
+
+firebase pages:
+/rmt247/members.html (login and signup with payment gateway upgrade function?)
+/rmt247/career.html (job listing with login in )
+
+*/
