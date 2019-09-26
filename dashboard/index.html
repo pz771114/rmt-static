@@ -138,6 +138,7 @@
         if (email && password) {
             firebase.auth().signInWithEmailAndPassword(email, password).then(function() {
                 message.innerHTML = '';
+                authForm.reset();
                 //redirec to dashboard
             }).catch(function(error) {
                 // Handle Errors here.
